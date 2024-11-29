@@ -22,6 +22,9 @@ p{
     border-radius: 20px;
 }
 
+strong{
+ font-weight:normal;
+}
 
 a{
     font-size: 3rem;

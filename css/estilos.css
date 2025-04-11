@@ -121,6 +121,8 @@ h4{
 .foot-li{
     text-align: center;
     list-style-type: none;
+     margin-bottom:2em;
+    margin-top:2em ;
 }
 
 footer h2{font-size: 0%;}
